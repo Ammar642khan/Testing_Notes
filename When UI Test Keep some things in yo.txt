@@ -1,0 +1,27 @@
+When UI Test Keep some things in your mind that are important:
+1. Drag & Drop between 2 screens
+2. Change the resolution of windows 
+3. Double click on the header of app
+4. Regression Testing after every module test
+5. Change the brightness of screen
+6. Check in other platforms with their resolutions
+7. Check login/signup with space
+8. Check the memory consumption of app
+9. Check while the installation hit the cross button
+10.Check the app in Dark mode or Light Mode
+
+
+When Functionality Test Keep things that are important:
+1. If there is encryption app test all files exrensions
+2. Check encryption and then change the existing file
+3. Check if existing files are work or not
+4. Check the encryption don't need to refresh
+5. Check the encryption is fully encrypted or not
+6. In existing file add or remove some data and then check
+7. In word file also check if there is a daigram copy a daigram and then check
+8. In word File also delete that existing daigram and check
+9. Check encryption method is same as other windows platform 
+10.Check ecyption that is done in windows 10 and decrypt in windows 7
+
+
+ 
